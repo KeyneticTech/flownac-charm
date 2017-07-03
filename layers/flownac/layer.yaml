@@ -1,0 +1,4 @@
+repo: git@github.com:KeyneticTech/flownac-charm.git
+includes:
+    - layer:basic
+    - layer:sshproxy
